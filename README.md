@@ -1,10 +1,10 @@
 # Dinosaur Comics Daily
 
-#### 2025-12-04
+#### 2025-12-17
 
-![comic2-5109](data/2025-12-04/comic2-5109.png)
+![comic2-5115](data/2025-12-17/comic2-5115.png)
 
-**the image of the earth is off-screen.  and big.  real pretty.  honestly it's a shame you can't see it**
+**how can i be REsponsible if i haven't been sponsible yet even once**
 
 ---
 
